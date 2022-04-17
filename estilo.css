@@ -1,0 +1,96 @@
+*{
+	font-family: 'Open Sans', sans-serif;
+}
+
+.perfil{
+	height: 230px;
+	width: auto;
+	max-width: 100%;
+	border-radius: 70%;
+	
+}
+
+
+.lista li{
+   display: inline-block;
+   margin: 5px;
+   color: blue;
+
+}
+
+.corPrimaria{
+	background-color: white;
+}
+
+.corSecundaria{
+	background-color: white;
+}
+
+.corDeFundo{
+	background-color: white;
+	color: #661fa1 ;
+}
+
+p{
+	font-family: lato,'Heveltica Neue', Heveltica, Arial.sans-serif;
+	color: black !important;
+}
+
+.icones{
+	padding-left: 5px;
+}
+
+.titulosBrancos{
+	text-decoration: underline;
+	text-decoration-position: below ;
+	padding-bottom: 20px;
+	text-transform: uppercase;
+	font-weight: 700;
+	color: white;
+}
+
+.footer{
+	marging: 0px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.contatos{
+	width: 100%;
+	height: 500px;
+}
+.contatos h3{
+	margin: 100px;
+}
+
+.jumbotron-heading{
+	color: white;
+}
+
+.lead{
+	color: white !important;
+}
+
+.paddingBottom{
+	padding-bottom: 20px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+.nav-link{
+	color: white;
+}
+.nav-link:hover{
+	color: white;
+}
+
+.logo{
+	border-radius: 30%;
+}
+a{
+	color: black !important;
+}
+
+.cor{
+	color: white; !important;
+}
